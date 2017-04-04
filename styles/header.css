@@ -1,0 +1,8 @@
+.banner {
+    background-color: #709928;
+    height: 10.5em;
+}
+
+.banner aside {
+    display: inline-block;
+}

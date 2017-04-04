@@ -1,0 +1,24 @@
+@import url('header.css');
+
+@font-face {
+    font-family:LibSerif;
+    src:url('../fonts/LinLibertine_R.eot');
+    src:url('../fonts/LinLibertine_R.eot?iefix'),
+        url('../fonts/LinLibertine_aDRS.ttf'),
+        url('../fonts/linlibertine_re-4.7.5ro-webfont.woff') format('woff');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face {
+    font-family:LinBiolinumStyle;
+    src:url('../fonts/LinBiolinum/LinBiolinum_R.eot');
+    src:url('../fonts/LinBiolinum/LinBiolinum_R.eot?iefix'),
+        url('../fonts/LinBiolinum/LinBiolinum_R.ttf');
+    font-weight:normal;
+    font-style:normal;
+}
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+}
